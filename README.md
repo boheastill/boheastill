@@ -17,7 +17,7 @@ Every project ships with a working demo, a verification report and handover docs
 | [Voice AI pipeline](https://boheastill.com/cases/voice-ai-pipeline?utm_source=github&utm_campaign=profile) | ~16 s caller-to-answer, end to end, running in production |
 | [Fleet route optimization](https://github.com/boheastill/montreal-district-vrp-solver) | −20% mileage (218 → 175 km) on identical stops, OR-Tools CP-SAT |
 | [Regulatory document parser](https://github.com/boheastill/gov-doc-parser-framework) | 233-article statute → strictly validated JSON, 0 warnings |
-| [Google Ads MCP server](https://boheastill.com/cases/google-ads-mcp?utm_source=github&utm_campaign=profile) | Manage campaigns in plain English, with a zero-risk mock mode |
+| [Google Ads MCP server](https://github.com/boheastill/google-ads-mcp) | Manage campaigns in plain English, with a zero-risk mock mode |
 
 ## Open source
 
