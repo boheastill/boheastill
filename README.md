@@ -10,14 +10,14 @@ I take full ownership of three kinds of business problems:
 
 ## Selected proof
 
-Every project ships with a working demo, a verification report and handover docs. Full case studies: **[boheastill.com](https://boheastill.com)**
+Every project ships with a working demo, a verification report and handover docs. Full case studies: **[boheastill.com](https://boheastill.com/?utm_source=github&utm_campaign=profile)**
 
 | Case | Hard number |
 |---|---|
-| [Voice AI pipeline](https://boheastill.com/cases/voice-ai-pipeline) | ~16 s caller-to-answer, end to end, running in production |
+| [Voice AI pipeline](https://boheastill.com/cases/voice-ai-pipeline?utm_source=github&utm_campaign=profile) | ~16 s caller-to-answer, end to end, running in production |
 | [Fleet route optimization](https://github.com/boheastill/montreal-district-vrp-solver) | −20% mileage (218 → 175 km) on identical stops, OR-Tools CP-SAT |
 | [Regulatory document parser](https://github.com/boheastill/gov-doc-parser-framework) | 233-article statute → strictly validated JSON, 0 warnings |
-| [Google Ads MCP server](https://boheastill.com/cases/google-ads-mcp) | Manage campaigns in plain English, with a zero-risk mock mode |
+| [Google Ads MCP server](https://boheastill.com/cases/google-ads-mcp?utm_source=github&utm_campaign=profile) | Manage campaigns in plain English, with a zero-risk mock mode |
 
 ## Open source
 
@@ -26,4 +26,4 @@ Every project ships with a working demo, a verification report and handover docs
 
 ## Contact
 
-📫 [hi@boheastill.com](mailto:hi@boheastill.com) · 🌐 [boheastill.com](https://boheastill.com) · 中文 → [boheastill.com/?lang=zh](https://boheastill.com/?lang=zh)
+📫 [hi@boheastill.com](mailto:hi@boheastill.com) · 🌐 [boheastill.com](https://boheastill.com/?utm_source=github&utm_campaign=profile) · 中文 → [boheastill.com/?lang=zh](https://boheastill.com/?lang=zh&utm_source=github&utm_campaign=profile)
