@@ -1,6 +1,6 @@
 # Bohea Still
 
-**Independent engineer for industrial integration, data/backend systems, and practical AI automation.**
+**I build the software that ships with machines — everything between "the machine arrived" and "your customer's people run it every day." Proof before promises.**
 
 I take ambiguous, high-risk work from a working prototype to measured delivery and handover. **Proof before promises — working demos before contracts.**
 
