@@ -4,6 +4,8 @@
 
 I take ambiguous, high-risk work from a working prototype to measured delivery and handover. **Proof before promises — working demos before contracts.**
 
+7 years of Java/Go back-end before industrial Python — **I speak ERP as fluently as Modbus.** 
+
 Public repositories below include open-source tools, independent benchmarks, credential-free demos, and production-derived work. Client work is anonymized where contracts or NDAs require it; each public demo states what was measured, what data is synthetic, and what the result does — and does not — prove.
 
 ## What I solve
@@ -11,6 +13,8 @@ Public repositories below include open-source tools, independent benchmarks, cre
 1. **Software that ships with a machine** — operator HMIs, device integration over Modbus/OPC UA/MQTT, and getting machine data upstream into an ERP. One interface across every model you ship, not a different one per machine.
 2. **Systems that don't talk** — the count your line reports and the count your ERP received don't match, and someone spends days each month finding out why. Integrations, protocol bridges and reconciliation.
 3. **Software an AI wrote that won't run** — a prototype that demos beautifully and cannot be deployed, extended or debugged by anyone. I take it over and make it survive production.
+
+**For hire.** [boheastill.com](https://boheastill.com/?r=gh-profile) — fixed scope, milestone payments, you own the source outright.
 
 ## Production experience
 
