@@ -4,7 +4,7 @@
 
 I take ambiguous, high-risk work from a working prototype to measured delivery and handover, and I show you something running before you commit.
 
-Seven years of Java and Go backend work came before industrial Python, so **I speak ERP as fluently as Modbus.**
+Backend work in Java and Go from 2019 to 2026 came before industrial Python, so **I speak ERP as fluently as Modbus.**
 
 The repositories below include open-source tools, independent benchmarks, credential-free demos and production-derived work. Client work is anonymized where contracts or NDAs require it, and each public demo states what was measured, which data is synthetic, and what the result does and doesn't prove.
 
