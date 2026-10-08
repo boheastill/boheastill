@@ -22,7 +22,7 @@ The repositories below include open-source tools, independent benchmarks, creden
 |---|---|
 | [Inside a robot manufacturer](https://boheastill.com/cases/robotics-hmi/?r=gh-profile) | Sole developer for every internal system at **Standard Robots**, a Shenzhen AMR maker, for nearly two years: BOM and supply chain, CRM, deployment, and a binlog recovery that got back 100% of deleted data. Not their fleet software, and the page says so. A signed letter from the CTO is available on request. |
 | [High-concurrency backends](https://boheastill.com/?r=gh-profile) | Event-driven ERP/WMS with downtime failures down about 90%, throughput taken from 50 to 5,000+ QPS, and a production database migration across seven microservices. |
-| [Voice AI pipeline](https://boheastill.com/cases/voice-ai-pipeline/?r=gh-profile) | A production donation-call pipeline: phone call to transcription to a structured spreadsheet row in about 16 seconds. |
+| [Voice AI pipeline](https://byteplain.com/projects/voice-ai-pipeline/?r=gh-profile) | A production donation-call pipeline: phone call to transcription to a structured spreadsheet row in about 16 seconds. |
 
 ## Public, runnable proof
 
@@ -49,3 +49,5 @@ Case studies, walkthroughs and working terms: **[boheastill.com](https://boheast
 ## Contact
 
 📫 [hi@boheastill.com](mailto:hi@boheastill.com) · 🌐 [boheastill.com](https://boheastill.com/?r=gh-profile) · 中文 → [boheastill.com/zh/](https://boheastill.com/zh/?r=gh-profile)
+
+Software experiments and non-industrial projects, written up for their engineering rather than for sale: [byteplain.com](https://byteplain.com/?r=gh-profile), my lab.
