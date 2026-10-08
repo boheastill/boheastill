@@ -50,4 +50,4 @@ Case studies, walkthroughs and working terms: **[boheastill.com](https://boheast
 
 📫 [hi@boheastill.com](mailto:hi@boheastill.com) · 🌐 [boheastill.com](https://boheastill.com/?r=gh-profile) · 中文 → [boheastill.com/zh/](https://boheastill.com/zh/?r=gh-profile)
 
-Software experiments and non-industrial projects, written up for their engineering rather than for sale: [byteplain.com](https://byteplain.com/?r=gh-profile), my lab.
+Alongside the practice I keep a non-commercial lab, [byteplain.com](https://byteplain.com/?r=gh-profile), where I take new technology apart and explain it in plain language. One full industrial practice plus a research habit, not two half-time jobs: client work always comes first.
