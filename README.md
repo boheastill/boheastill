@@ -20,7 +20,7 @@ The repositories below include open-source tools, independent benchmarks, creden
 
 | Work | What shipped |
 |---|---|
-| [Inside a robot manufacturer](https://boheastill.com/cases/robotics-hmi/?r=gh-profile) | Sole developer for every internal system at **Standard Robots**, a Shenzhen AMR maker, for nearly two years: BOM and supply chain, CRM, deployment, and a binlog recovery that got back 100% of deleted data. Not their fleet software, and the page says so. A signed letter from the CTO is available on request. |
+| [Inside a robot manufacturer](https://boheastill.com/cases/inside-a-robot-maker/?r=gh-profile) | Sole developer for every internal system at **Standard Robots**, a Shenzhen AMR maker, for nearly two years: BOM and supply chain, CRM, deployment, and a binlog recovery that got back 100% of deleted data. Not their fleet software, and the page says so. A signed letter from the CTO is available on request. |
 | [High-concurrency backends](https://boheastill.com/?r=gh-profile) | Event-driven ERP/WMS with downtime failures down about 90%, throughput taken from 50 to 5,000+ QPS, and a production database migration across seven microservices. |
 | [Voice AI pipeline](https://byteplain.com/projects/voice-ai-pipeline/?r=gh-profile) | A production donation-call pipeline: phone call to transcription to a structured spreadsheet row in about 16 seconds. |
 
